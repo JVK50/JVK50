@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Jidan<br><br>🌱I'm curently learning at State Polytechnic of Malang<br>👋Nice to meet you
+Hello my name is Jidan<br><br>🌱I'm curently learning at State Polytechnic of Malang<br>👋Nice to meet you<br>Looking for gf(im so lonli)
 
 
 ## 🌐 Socials:
