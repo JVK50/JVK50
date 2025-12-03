@@ -15,7 +15,7 @@ Hello my name is Jidan<br><br>🌱I'm curently learning at State Polytechnic of 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JVK50&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Today Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
